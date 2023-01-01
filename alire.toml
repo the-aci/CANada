@@ -1,0 +1,10 @@
+name = "canada"
+description = "CAN driver"
+version = "0.1.0-dev"
+
+authors = ["Jesper Quorning"]
+maintainers = ["Jesper Quorning <jesper.quorning@gmail.com>"]
+maintainers-logins = ["jquorning"]
+licenses = "MIT OR Apache-2.0"
+website = ""
+tags = ["ada", "can", "driver"]
